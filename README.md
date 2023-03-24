@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=hanmok&show_icons=true&hide_border=true)](https://github.com/hanmok)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanmok&layout=compact)](https://github.com/hanmok
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanmok&layout=compact)](https://github.com/hanmok)
